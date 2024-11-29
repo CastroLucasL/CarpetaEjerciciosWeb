@@ -39,7 +39,7 @@ h2 {
 }
 
 li a {
-    color: #00aaff;
+    color: #002299;
     text-decoration: none;
 }
 
@@ -96,3 +96,6 @@ img {
     opacity: 1;
 }
 
+.row div{
+    max-width: 300px;
+}
