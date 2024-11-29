@@ -1,0 +1,64 @@
+h1,h2, h3, p{
+    font-family: arial;
+}
+
+h1, h2{
+    color: #0070c0;
+}
+
+h1{
+    font-size: 32px;
+}
+
+h2{
+    font-size: 26px;
+}
+
+h3{
+    color:#e36c0a
+}
+
+p{
+    font-size: 16px;
+    line-height: 1.3;
+}
+
+header p{
+    color: red;
+}
+
+header p span{
+    color:#a6043b;
+}
+
+.multimedial{
+    color: #92d050;
+}
+
+.multimedial span{
+    color: #76923c;
+}
+
+.web{
+    color: #d99594;
+}
+
+.web span{
+    color: #943634;
+}
+
+.cortos{
+    color: #b2a1c7;
+}
+
+.cortos span{
+    color: #5f497c;
+}
+
+.profesional{
+    color: #ff33cc;
+}
+
+.profesional span{
+    color: #cc3399
+}

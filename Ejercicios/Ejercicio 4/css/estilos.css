@@ -1,0 +1,68 @@
+#section1{
+    background-color: rgb(0, 255, 255);
+    margin: 20px;
+    padding: 15px;
+}
+
+#section2{
+    background-image: url('../img/Messi.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#section3{
+    border-radius: 2px;
+    border-color: red;
+    border-radius: 10px;
+}
+
+#section4 p{
+    font-weight: bold;
+    border-radius: 2px;
+    border: solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+#section5 div{
+    background-color: yellow;
+    text-align: center;
+}
+
+#section6{    
+    border: 10px double purple;
+    background-color: gold;
+    padding: 10px;
+}
+
+#section7{
+    background-image: url('../img/Messi.jpg');
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+}
+
+#section8{
+    background-image: url('../img/Messi.jpg');
+    background-size: 50%;
+    background-repeat: repeat-y;
+}
+
+#section9{
+    background-color: coral;
+    background-image: url('../img/Messi.jpg');
+    background-position: 100% 0;
+    background-size: 5%;
+    background-repeat: no-repeat;
+}
+
+#section9 .btn{
+    background-color: green;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#section10{
+    width: 50%;
+    border: 3px dotted green;
+    padding: 25px;
+}
